@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates a common error involving mutable vector references. The error occurs when attempting to modify a vector after its ownership has changed, resulting in a runtime panic.  The solution demonstrates how to properly manage vector references using &mut. 
